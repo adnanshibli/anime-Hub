@@ -1,0 +1,25 @@
+body{
+    background-image: url(/image/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header h1{
+    background-color: #9D0D0D;
+    padding: 10px;
+    color: wheat;
+    text-align: center;
+    
+}
+
+#forme{
+    background-color: #5f5757bf;
+    font-family:Roboto ;
+    left: 50%;
+    margin: 0;
+    position: absolute;
+    height: 150px;
+    width: 250px;
+    text-align: center;
+}
+
+
